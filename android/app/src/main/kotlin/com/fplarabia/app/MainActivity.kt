@@ -1,0 +1,6 @@
+package com.fplarabia.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
